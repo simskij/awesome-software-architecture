@@ -29,8 +29,14 @@
 - [The C4 Model](https://c4model.com/)
   Describe software using Context, Containers, Components and Code.
 
-## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Simon Aronsson](https://github.com/simskij) has waived all copyright and related or neighboring rights to this work.
+<p align="center">
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" title="CC0" />
+    <br/>
+    Licensed under Creative Commons CC0.
+  </a>
+</p>
+
+
