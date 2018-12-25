@@ -29,14 +29,9 @@
 - [The C4 Model](https://c4model.com/)
   Describe software using Context, Containers, Components and Code.
 
+---
 
 
-<p align="center" style="margin-top: 20px">
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" title="CC0" />
-    <br/>
-    Licensed under Creative Commons CC0.
-  </a>
-</p>
-
-
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">
+  <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg" title="CC0" />
+</a>
