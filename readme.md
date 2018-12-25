@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Before you make a contribution, make sure to read the [code of conduct](code_of_conduct.md) as well as the [contribution guidelines](contributing.md)
+Before you make a contribution, make sure that you have read the [code of conduct](code_of_conduct.md) as well as the [contribution guidelines](contributing.md)
 
 ### Books
 - [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) 
