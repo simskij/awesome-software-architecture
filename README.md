@@ -1,6 +1,13 @@
-A curated list of awesome resources on software architecture
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+<p align="center">
+  A curated list of awesome resources on software architecture
+  <br/>
+  <br/>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge-flat.svg" title="Awesome" />
+  </a>
+</p>
 
 ### Books
 - [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) 
