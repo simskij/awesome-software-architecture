@@ -20,6 +20,8 @@ Want to make this list better? Take a look at our [code of conduct](code_of_cond
 - [Draw.io](https://www.draw.io) 
   Free and simple diagram editor. Comparable to Visio and its likes. Available on all common platforms.
 - [Structurizr](https://structurizr.com)
+- [Visual Paradigm](https://www.visual-paradigm.com/)
+- [Poseidon](http://www.gentleware.com/)
 
 ## License
 
