@@ -14,6 +14,7 @@ and [contribution guidelines](contributing.md) and then open a pull request!
   Format for exploring domain driven-design.
 - [MoSCoW Prioritization](https://www.knowledgehut.com/blog/agile/how-to-prioritise-requirements-with-the-moscow-technique)
   Fast and dead-simple way of prioritizing requirements
+- [Story mapping](https://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf) Visualize your requirements by mapping user stories 
 
 ## Modeling
 - [The C4 Model](https://c4model.com/)
