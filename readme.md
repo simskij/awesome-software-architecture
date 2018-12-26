@@ -11,7 +11,7 @@ Want to make this list better? Take a look at our [code of conduct](code_of_cond
 ## Modeling
 - [The C4 Model](https://c4model.com/)
   Describe software using Context, Containers, Components and Code.
-- [Wikipedia: Data modeling](https://en.wikipedia.org/wiki/Data_modeling#Data_models)
+- [Wikipedia: Data modeling](https://en.wikipedia.org/wiki/Data_modeling)
   Great, short, introduction to data modeling.
 
 ## Tools
