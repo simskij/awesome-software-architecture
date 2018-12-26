@@ -8,9 +8,11 @@ Want to make this list better? Take a look at our [code of conduct](code_of_cond
 - [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
   Great reference on design patterns.
   
-## Models
+## Modeling
 - [The C4 Model](https://c4model.com/)
   Describe software using Context, Containers, Components and Code.
+- [Wikipedia: Data modeling](https://en.wikipedia.org/wiki/Data_modeling#Data_models)
+  Great, short, introduction to data modeling.
 
 ## Tools
 - [Sparx Systems Enterprise Architect](https://sparxsystems.com/products/ea/index.html)
