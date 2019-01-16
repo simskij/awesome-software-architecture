@@ -3,6 +3,13 @@ A curated list of awesome resources on software architecture.
 Want to make this list better? Take a look at our [code of conduct](code_of_conduct.md)
 and [contribution guidelines](contributing.md) and then open a pull request!
 
+## Content
+* [Books](#books)
+* [Documentation](#documentation)
+* [Workshop formats](#workshop-formats)
+* [Modeling](#modeling)
+* [Tools](#tools)
+
 ## Books
 * [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software.
 * [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - Great reference on design patterns.
