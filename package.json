@@ -1,0 +1,22 @@
+{
+  "name": "awesome-architecture",
+  "version": "1.0.0",
+  "description": "A curated list of awesome resources on software architecture. Want to make this list better? Take a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md) and then open a pull request!",
+  "main": "index.js",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simskij/awesome-architecture.git"
+  },
+  "author": "simon aronsson <@simskij>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/simskij/awesome-architecture/issues"
+  },
+  "homepage": "https://github.com/simskij/awesome-architecture#readme",
+  "dependencies": {
+    "awesome-lint": "latest"
+  }
+}
