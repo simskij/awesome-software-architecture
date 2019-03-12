@@ -21,7 +21,7 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 * [Event Storming](https://www.eventstorming.com/) - Format for exploring domain driven-design.
 * [MoSCoW Prioritization](https://www.knowledgehut.com/blog/agile/how-to-prioritise-requirements-with-the-moscow-technique) - Fast and dead-simple way of prioritizing requirements.
 * [Story mapping](https://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf) - Visualize your requirements by creating story maps.
-* [Impact mapping](https://www.impactmapping.org/) -  A strategic planning technique that prevents organisations from getting lost while building products and delivering projects.
+* [Impact mapping](https://www.impactmapping.org/) -  A strategic planning technique used for building products and delivering projects.
 * [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) - Business plans made simple and visual.
 
 ## Modeling
