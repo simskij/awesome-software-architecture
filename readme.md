@@ -13,6 +13,7 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 ## Books
 * [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software.
 * [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - Great reference on design patterns.
+* [Business Model Generation, by Osterwalder & Pigneur](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - Easily visualize your value proposition, costs and revenue streams.  
   
 ## Documentation
 * [Architectural Decision Records](https://adr.github.io/) - Version and document architectural decisions the same way you do with code.
