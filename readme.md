@@ -27,7 +27,7 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 * [Story mapping](https://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf) - Visualize your requirements by creating story maps.
 * [Impact mapping](https://www.impactmapping.org/) -  A strategic planning technique used for building products and delivering projects.
 * [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) - Business plans made simple and visual.
-* [Business Model Generation, by Osterwalder & Pigneur](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - :closed_book: Easily visualize your value proposition, costs and revenue streams.
+* [Business Model Generation, by Osterwalder & Pigneur](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - :orange_book: Easily visualize your value proposition, costs and revenue streams.
 
 ## Modeling
 * [The C4 Model](https://c4model.com/) - Describe software using Context, Containers, Components and Code.
@@ -48,12 +48,12 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 * [Nexus](https://www.scrum.org/resources/scaling-scrum) - Scalable Scrum according to Ken Schwaber, co-creator of Scrum.
 ### Lean software development
 * [Wikipedia: Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) - Translation of lean manufacturing for the software development domain.
-* [Rolling rocks downhill, by Clarke Ching](https://www.amazon.com/Rolling-Rocks-Downhill-Software-Projects/dp/1505446511) - :closed_book: Business novel about agile and lean software development 
+* [Rolling rocks downhill, by Clarke Ching](https://www.amazon.com/Rolling-Rocks-Downhill-Software-Projects/dp/1505446511) - :orange_book: Business novel about agile and lean software development 
 ### Extreme programming
 * [Extreme Programming](http://www.extremeprogramming.org/) - The most specific of the popular agile processes, focusing on engineering and development practices. 
 ### Devops
 * [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
-* [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - :closed_book: Business novel about IT, Devops and helping your Business win. 
+* [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - :orange_book: Business novel about IT, Devops and helping your Business win. 
  
 
 ## License
