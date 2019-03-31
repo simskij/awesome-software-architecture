@@ -9,6 +9,10 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 * [Workshop formats](#workshop-formats)
 * [Modeling](#modeling)
 * [Tools](#tools)
+* [Frameworks](#frameworks)
+  * [Scrum](#scrum)
+  * [Lean software development](#lean-software-development)
+  * [Extreme programming](#extreme-programming)
 
 ## Books
 * [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software.
@@ -36,6 +40,17 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 * [Draw.io](https://www.draw.io) - Free and simple diagram editor. Comparable to Visio and its likes. Available on all common platforms.
 * [Structurizr](https://structurizr.com) - Modelling tool based on the C4 Model (see above).
   
+  
+## Frameworks
+### Scrum
+* [Scrum](https://www.scrumguides.org/) - Framework for developing and maintaining complex products.
+* [SAFe](https://www.scaledagileframework.com/) - Scalable agile framework.
+* [Nexus](https://www.scrum.org/resources/scaling-scrum) - Scalable Scrum according to Ken Schwaber, co-creator of Scrum.
+### Lean software development
+* [Wikipedia: Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) - Translation of lean manufacturing for the software development domain.
+### Extreme programming
+* [Extreme Programming](http://www.extremeprogramming.org/) - The most specific of the popular agile processes, focusing on engineering and development practices. 
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
