@@ -5,6 +5,7 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 
 ## Contents
 * [Books](#books)
+* [Methodology](#methodology)
 * [Documentation](#documentation)
 * [Workshop formats](#workshop-formats)
 * [Modeling](#modeling)
