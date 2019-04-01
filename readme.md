@@ -18,6 +18,9 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 * [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software.
 * [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - Great reference on design patterns.
   
+## Methodology
+* [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) - Making a case for growing software in small increments.
+  
 ## Documentation
 * [Architectural Decision Records](https://adr.github.io/) - Version and document architectural decisions the same way you do with code.
 
