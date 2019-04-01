@@ -43,7 +43,8 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 * [Lucidchart](https://www.lucidchart.com) - Paid cloud-based diagram editor. Available on all common platforms.
 * [Draw.io](https://www.draw.io) - Free and simple diagram editor. Comparable to Visio and its likes. Available on all common platforms.
 * [Structurizr](https://structurizr.com) - Modelling tool based on the C4 Model (see above).
-* [PlantUML](http://plantuml.com/) - Like markdown for diagrams, PlantUML renders an english-like grammer into diagrams. Ha s[plugins to Atlassian tools](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview).
+* [PlantUML](http://plantuml.com/) - Like markdown for diagrams, PlantUML renders an english-like grammer into diagrams.
+* [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
 
 
 ## Frameworks
