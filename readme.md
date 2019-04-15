@@ -19,13 +19,14 @@ and [contribution guidelines](contributing.md) and then open a pull request!
   - [Devops](#devops)
 
 ## Design patterns
-- [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The book that started it all.
+- [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The one that started it all :orange_book:.
 - [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide) - Introduction to common software design patterns.
+- [Software Design Patterns and Principes (quick overview)](https://www.youtube.com/watch?v=WV2Ed1QTst8) - Reasons about common design patterns as well as their upsides and downsides 🎥.
 
 ## Methodology
 
-- [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) - Making a case for growing software in small increments.
-- [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software.
+- [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) - Making a case for growing software in small increments :orange_book:.
+- [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software :orange_book:.
 
 ## Documentation
 
@@ -67,7 +68,7 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 
 - [Wikipedia: Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) - Translation of lean manufacturing for the software development domain.
 - [Rolling rocks downhill, by Clarke Ching](https://www.amazon.com/Rolling-Rocks-Downhill-Software-Projects/dp/1505446511) - Business novel about agile and lean software development :orange_book:.
-- [The Goal: A Process of Ongoing Improvement, by Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) - Business novel about contiuous improvements in a manufacturing setting. Easily adaptable to software development as well.
+- [The Goal: A Process of Ongoing Improvement, by Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) - Business novel about contiuous improvements in a manufacturing setting. Easily adaptable to software development as well :orange_book:.
 ### Extreme programming
 
 - [Extreme Programming](http://www.extremeprogramming.org/) - The most specific of the popular agile processes, focusing on engineering and development practices.
