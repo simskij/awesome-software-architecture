@@ -20,7 +20,7 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 
 ## Design patterns
 - [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The book that started it all.
-- [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide)
+- [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide) - Introduction to common software design patterns.
 
 ## Methodology
 
