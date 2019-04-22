@@ -31,6 +31,8 @@ and [contribution guidelines](contributing.md) and then open a pull request!
 ## Documentation
 
 - [Architectural Decision Records](https://adr.github.io/) - Version and document architectural decisions the same way you do with code.
+- [Documenting architecture](https://dzone.com/articles/documenting-architecture-1) - Pragmatic tips on how to effectively document software architecture.
+
 
 ## Workshop formats
 
