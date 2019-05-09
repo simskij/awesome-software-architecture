@@ -1,8 +1,9 @@
 # Awesome Software Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources on software architecture.
-Want to make this list better? Take a look at our [code of conduct](code_of_conduct.md)
-and [contribution guidelines](contributing.md) and then open a pull request!
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level structures of software as well as the discipline of creating them. 
+
+Want to help in making this list better? Start by taking a look at our [code of conduct](code_of_conduct.md)
+and [contribution guidelines](contributing.md)!
 
 ## Contents
 
