@@ -26,6 +26,7 @@ and [contribution guidelines](contributing.md)!
 - [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - Segregate operations that read data from operations that update data by using separate interfaces.
 - [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - Instead of storing just the current state of the data in a domain, use an append-only store to record the full series of actions taken on that data.
 - [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html) - Feature Toggles (often also refered to as Feature Flags) are a powerful technique, allowing teams to modify system behavior without changing code.
+- [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) - BDD uses human-readable descriptions of software user requirements as the basis for software tests.
 
 ## Methodology
 
