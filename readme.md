@@ -80,7 +80,7 @@ and [contribution guidelines](contributing.md)!
 
 - [Extreme Programming](http://www.extremeprogramming.org/) - The most specific of the popular agile processes, focusing on engineering and development practices.
 
-### Devops
+### DevOps
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
 - [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - Business novel about IT, Devops and helping your Business win :orange_book:.
