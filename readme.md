@@ -17,7 +17,7 @@ and [contribution guidelines](contributing.md)!
   - [Scrum](#scrum)
   - [Lean software development](#lean-software-development)
   - [Extreme programming](#extreme-programming)
-  - [Devops](#devops)
+  - [DevOps](#devops)
 
 ## Design patterns
 - [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The one that started it all :orange_book:.
