@@ -71,7 +71,7 @@ and [contribution guidelines](contributing.md)!
 - [Scrum](https://www.scrumguides.org/) - Framework for developing and maintaining complex products.
 - [SAFe](https://www.scaledagileframework.com/) - Scalable agile framework.
 - [Nexus](https://www.scrum.org/resources/scaling-scrum) - Scalable Scrum according to Ken Schwaber, co-creator of Scrum. 
-- [The death of Agile](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) - This talk looks at how "Agile" has moved away from the basic principles of agility, and at what we need to do to fix things (or get off on the right foot if you're just starting the journey) 🎥.
+- [The death of Agile](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) - How "Agile" has moved away from the basic principles of agility, and what we need to do to fix things 🎥.
 ### Lean software development
 
 - [Wikipedia: Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) - Translation of lean manufacturing for the software development domain.
