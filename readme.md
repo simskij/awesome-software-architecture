@@ -7,7 +7,7 @@ and [contribution guidelines](contributing.md)!
 
 ## Contents
 
-- [Design patterns](#design-patterns)
+- [Design Patterns](#design-patterns)
 - [Methodology](#methodology)
 - [Documentation](#documentation)
 - [Workshop formats](#workshop-formats)
@@ -21,7 +21,7 @@ and [contribution guidelines](contributing.md)!
 
 ## Design Patterns
 - [Ports and adapters pattern](https://softwarecampament.wordpress.com/portsadapters/) - Decouple the application core logic from the services it uses.
-- [Observer pattern](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2) - One-to-many state change notification 
+- [Observer pattern](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2) - One-to-many state change notification.
 - [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The one that started it all :orange_book:.
 - [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide) - Introduction to common software design patterns.
 - [Software Design Patterns and Principes (quick overview)](https://www.youtube.com/watch?v=WV2Ed1QTst8) - Reasons about common design patterns as well as their upsides and downsides 🎥.
