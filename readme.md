@@ -14,7 +14,7 @@ and [contribution guidelines](contributing.md)!
 - [Modeling](#modeling)
 - [Tools](#tools)
 - [Frameworks](#frameworks)
-  - [Scrum](#scrum)
+  - [Agile](#agile)
   - [Lean software development](#lean-software-development)
   - [Extreme programming](#extreme-programming)
   - [DevOps](#devops)
