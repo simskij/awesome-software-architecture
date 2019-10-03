@@ -74,7 +74,8 @@ and [contribution guidelines](contributing.md)!
 - [SAFe](https://www.scaledagileframework.com/) - Scalable agile framework.
 - [Nexus](https://www.scrum.org/resources/scaling-scrum) - Scalable Scrum according to Ken Schwaber, co-creator of Scrum. 
 - [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) - How "Agile" has moved away from the basic principles of agility, and what we need to do to fix things 🎥.
-- [Agile Architecture, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) + ([part 2](https://www.youtube.com/watch?v=txbS0WJC1bo)) - How do we work with architecture in a agile world 🎥. 
+- [Agile Architecture Pt. 1, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) - How do we work with architecture in a agile world (1/2) 🎥. 
+- [Agile Architecture Pt. 2, by Allen Holub](https://www.youtube.com/watch?v=txbS0WJC1bo) - How do we work with architecture in a agile world  (1/2) 🎥. 
 ### Lean software development
 
 - [Wikipedia: Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) - Translation of lean manufacturing for the software development domain.
