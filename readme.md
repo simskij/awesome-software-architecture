@@ -1,9 +1,8 @@
 # Awesome Software Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level structures of software as well as the discipline of creating them. 
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain resources also present in more niche lists. 
 
-Want to help in making this list better? Start by taking a look at our [code of conduct](code_of_conduct.md)
-and [contribution guidelines](contributing.md)!
+Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
 
 ## Contents
 
