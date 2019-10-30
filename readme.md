@@ -34,9 +34,10 @@ and [contribution guidelines](contributing.md)!
 ## Methodology
 
 - [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) - Making a case for growing software in small increments :orange_book:.
-- [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software :orange_book:.
+- [Clean Architecture, by Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software :orange_book:.
 - [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) - Cost and impact of accumulating technical debt.
-- [The Magic Tricks of Testing, by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - Minimalistic ideals as a practical and pragmatic approach to software testing 🎥.
+- [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - Minimalistic ideals as a practical and pragmatic approach to software testing 🎥.
+- [TDD, Where did it all go wrong?, by Cooper](https://www.infoq.com/presentations/tdd-original/) - Suggestion on TDD practices and boundaries to reduce coupling 🎥.
 
 ## Documentation
 
