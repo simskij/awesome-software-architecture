@@ -17,10 +17,11 @@ jobs:
           remark-cli \
           remark-lint \
           remark-lint-no-dead-urls
-    - name: run awesome-lint
-      run: npx awesome-lint readme.md
-    - name: run awesome-lint
+    - name: scan for dead urls
       run: |
         npx remark \
           -u remark-lint-no-dead-urls \
-          readme.md
+          ./readme.md
+    - name: run awesome-lint
+      run: npx awesome-lint ./readme.md
+    
