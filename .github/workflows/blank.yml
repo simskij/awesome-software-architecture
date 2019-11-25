@@ -16,13 +16,11 @@ jobs:
           awesome-lint \
           remark-cli \
           remark-lint \
-          remark-preset-lint-recommended \
           remark-lint-no-dead-urls
     - name: run awesome-lint
       run: npx awesome-lint
     - name: run awesome-lint
       run: |
         npx remark \
-          -u preset-lint-recommended \
           -u remark-lint-no-dead-urls \
           readme.md
