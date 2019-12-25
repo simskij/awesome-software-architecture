@@ -17,7 +17,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
   - [Lean software development](#lean-software-development)
   - [Extreme programming](#extreme-programming)
   - [DevOps](#devops)
-- Bonus(#bonus)
+- [Bonus](#bonus)
 
 ## Design Patterns
 - [Ports and adapters pattern](https://softwarecampament.wordpress.com/portsadapters/) - Decouple the application core logic from the services it uses.
