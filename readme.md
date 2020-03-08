@@ -2,12 +2,14 @@
   <img src="./banner.png" />
 </p>
 
-<h1 align="center">
-  Awesome Software Architecture<br/>
+<div align="center">
+  
+  # Awesome Software Architecture<br/>
+  
   <a href="https://awesome.re" target="_blank">
     <img src="https://awesome.re/badge.svg" alt="awesome badge" />
   </a>
-</h1>
+</div>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank">Software architecture</a> aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain some resources that are also present in more niche lists. 
