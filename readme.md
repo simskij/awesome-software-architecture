@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="./banner.png" />
-</p>
-
 <div align="center">
-  
+
+  <img src="./banner.png" />
+
   # Awesome Software Architecture<br/>
   
-  <a href="https://awesome.re" target="_blank">
-    <img src="https://awesome.re/badge.svg" alt="awesome badge" />
-  </a>
+  [![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
+  
+  [Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level 
+  structures of software as well as the discipline of creating them. As this topic is pretty broad, it might 
+  contain some resources that are also present in more niche lists. 
+  
 </div>
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank">Software architecture</a> aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain some resources that are also present in more niche lists. 
-</p>
 
 ## Contents
 
@@ -113,9 +110,7 @@
 
 ## Contributing
 
-  Want to help in making this list even better? Yay, that's awesome! Before you get started though, please
-  have a look at our <a href="code_of_conduct.md">code of conduct</a> and
-  <a href="contributing.md">contribution guidelines</a>.
+Want to contribute into making this list even better? Yay, that's awesome! Before you get started though, please have a look at our <a href="code_of_conduct.md">code of conduct</a> and <a href="contributing.md">contribution guidelines</a>.
 
 ## License
 
