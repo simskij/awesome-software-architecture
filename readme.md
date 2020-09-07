@@ -15,6 +15,7 @@ contain some resources that are also present in more niche lists.
 ## Contents
 
 - [Design Patterns](#design-patterns)
+  - [Scalability and Resilience](#scalability-and-resilience)
 - [Methodology](#methodology)
 - [Documentation](#documentation)
 - [Workshop formats](#workshop-formats)
