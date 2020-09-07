@@ -39,6 +39,9 @@ contain some resources that are also present in more niche lists.
 - [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) - BDD uses human-readable descriptions of software user requirements as the basis for software tests.
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) - Layers are a way to separate responsibilities and manage dependencies.
 
+### Scalability and Resilience
+- [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Protecting failing resources to prevent cascading failures
+
 ## Methodology
 
 - [No silver bullet, by Brooks](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - Making a case for growing software in small increments :orange_book:.
