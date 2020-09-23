@@ -42,6 +42,7 @@ contain some resources that are also present in more niche lists.
 
 ### Scalability and Resilience
 - [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Protecting failing resources to prevent cascading failures
+- [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead) - Partition resources to isolate failures
 
 ## Methodology
 
