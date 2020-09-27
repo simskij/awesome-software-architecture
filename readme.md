@@ -29,7 +29,7 @@ contain some resources that are also present in more niche lists.
 - [Bonus](#bonus)
 
 ## Design Patterns
-- [Ports and adapters pattern](https://softwarecampament.wordpress.com/portsadapters/) - Decouple the application core logic from the services it uses.
+- [Ports and adapters pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html) - Decouple the application core logic from the services it uses.
 - [Observer pattern](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2) - One-to-many state change notification.
 - [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The one that started it all :orange_book:.
 - [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide) - Introduction to common software design patterns.
