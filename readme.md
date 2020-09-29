@@ -14,6 +14,7 @@ contain some resources that are also present in more niche lists.
 
 ## Contents
 
+- [Principles](#principles)
 - [Design Patterns](#design-patterns)
   - [Scalability and Resilience](#scalability-and-resilience)
 - [Methodology](#methodology)
@@ -27,6 +28,9 @@ contain some resources that are also present in more niche lists.
   - [Extreme programming](#extreme-programming)
   - [DevOps](#devops)
 - [Bonus](#bonus)
+
+## Principles
+- [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
 
 ## Design Patterns
 - [Ports and adapters pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html) - Decouple the application core logic from the services it uses.
