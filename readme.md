@@ -45,8 +45,9 @@ contain some resources that are also present in more niche lists.
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) - Layers are a way to separate responsibilities and manage dependencies.
 
 ### Scalability and Resilience
-- [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Protecting failing resources to prevent cascading failures
-- [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead) - Partition resources to isolate failures
+- [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Protecting failing resources to prevent cascading failures.
+- [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead) - Partition resources to isolate failures.
+- [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election) - Coordinate distributed workloads by electing a leader.
 
 ## Methodology
 
@@ -86,6 +87,7 @@ contain some resources that are also present in more niche lists.
 - [Structurizr](https://structurizr.com) - Modelling tool based on the C4 Model (see above).
 - [PlantUML](http://plantuml.com/) - Like markdown for diagrams, PlantUML renders an english-like grammer into diagrams.
 - [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
+- [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 
 ## Frameworks
 
