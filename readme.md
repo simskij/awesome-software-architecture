@@ -9,6 +9,10 @@
 [Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level 
 structures of software as well as the discipline of creating them. As this topic is pretty broad, it might 
 contain some resources that are also present in more niche lists. 
+
+<i>
+  If you like this list, consider showing your support by following <a href="https://twitter.com/0x12b/">@0x12b</a> on Twitter. 
+</i>
   
 </div>
 
