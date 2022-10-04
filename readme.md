@@ -35,6 +35,7 @@ contain some resources that are also present in more niche lists.
 
 ## Principles
 - [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
+- [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - Lend to developing software with considerations for maintaining and extending as the project grows
 
 ## Design Patterns
 - [Ports and adapters pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html) - Decouple the application core logic from the services it uses.
