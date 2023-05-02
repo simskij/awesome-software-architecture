@@ -124,6 +124,7 @@ contain some resources that are also present in more niche lists.
 ## Bonus
 
 - [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.
+- [Software Architect Roadmap](https://roadmap.sh/software-architect) - A complete and structured guide to become a Software Architect.
 
 ## Contributing
 
