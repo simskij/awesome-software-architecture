@@ -89,6 +89,7 @@ contain some resources that are also present in more niche lists.
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Similar to Enterprise Architect. Available for multiple platforms.
 - [Lucidchart](https://www.lucidchart.com) - Paid cloud-based diagram editor. Available on all common platforms.
 - [Draw.io](https://www.draw.io) - Free and simple diagram editor. Comparable to Visio and its likes. Available on all common platforms.
+- [Smartdraw](https://www.smartdraw.com/) - Paid SmartDraw includes quick-start templates for over 70 different diagram types from flowcharts to floor plans.
 - [Structurizr](https://structurizr.com) - Modelling tool based on the C4 Model (see above).
 - [PlantUML](http://plantuml.com/) - Like markdown for diagrams, PlantUML renders an english-like grammer into diagrams.
 - [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
