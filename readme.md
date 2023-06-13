@@ -61,6 +61,7 @@ contain some resources that are also present in more niche lists.
 - [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) - Cost and impact of accumulating technical debt.
 - [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - Minimalistic ideals as a practical and pragmatic approach to software testing 🎥.
 - [TDD, Where did it all go wrong?, by Cooper](https://www.infoq.com/presentations/tdd-original/) - Suggestion on TDD practices and boundaries to reduce coupling 🎥.
+- [CodeCrafters](https://app.codecrafters.io/tracks?r=6kS) — learn software craftsmanship through writing code in small increments, and observing others' work
 
 ## Documentation
 
