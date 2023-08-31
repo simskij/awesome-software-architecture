@@ -94,6 +94,7 @@ contain some resources that are also present in more niche lists.
 - [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
 - [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+- [Fine](https://www.fine.dev/) - Build Software with AI Agents. Consult with AI about architecture, design, and technical specifications.
 
 ## Frameworks
 
