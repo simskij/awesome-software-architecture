@@ -77,6 +77,7 @@ contain some resources that are also present in more niche lists.
 - [Impact mapping](https://www.impactmapping.org/) - A strategic planning technique used for building products and delivering projects.
 - [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) - Business plans made simple and visual.
 - [Business Model Generation, by Osterwalder & Pigneur](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - Easily visualize your value proposition, costs and revenue streams :orange_book:.
+- [Enterprise Orbit Diagram](https://github.com/edwincastaneda/enterprise-orbit-diagram) - A strategic visualization model designed for early discovery, low-documentation environments, and modernization conversations.
 
 ## Modeling
 
