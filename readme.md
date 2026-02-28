@@ -66,6 +66,7 @@ contain some resources that are also present in more niche lists.
 
 - [arc42](https://arc42.org/) - Template for documentation and communication of software and system architectures.
 - [Architectural Decision Records](https://adr.github.io/) - Version and document architectural decisions the same way you do with code.
+- [Decision Reasoning Format (DRF)](https://github.com/reasoning-formats/reasoning-formats) - Vendor-neutral, machine-readable YAML/JSON format for representing technical decisions with explicit reasoning, assumptions, and trade-offs.
 - [Documenting architecture](https://dzone.com/articles/documenting-architecture-1) - Pragmatic tips on how to effectively document software architecture.
 
 
