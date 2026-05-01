@@ -126,7 +126,7 @@ contain some resources that are also present in more niche lists.
 
 - [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.
 - [Software Architect Roadmap](https://roadmap.sh/software-architect) - A complete and structured guide to become a Software Architect.
-
+- [Grokking Software Architecture](https://www.manning.com/books/grokking-software-architecture) - A fast-paced introduction to the foundational ideas of software architecture, written for developers and aspiring architects.
 ## Contributing
 
 Want to contribute into making this list even better? Yay, that's awesome! Before you get started though, please have a look at our <a href="code_of_conduct.md">code of conduct</a> and <a href="contributing.md">contribution guidelines</a>.
