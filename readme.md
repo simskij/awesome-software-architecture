@@ -66,6 +66,7 @@ contain some resources that are also present in more niche lists.
 - [arc42](https://arc42.org/) - Template for documentation and communication of software and system architectures.
 - [Architectural Decision Records](https://adr.github.io/) - Version and document architectural decisions the same way you do with code.
 - [Documenting architecture](https://dzone.com/articles/documenting-architecture-1) - Pragmatic tips on how to effectively document software architecture.
+- [Anchoring specs to code with ast-grep](https://coles.codes/posts/anchoring-specs-to-code-with-ast-grep/) - Keep living specifications connected to the code they describe with structural rules that survive refactoring.
 
 
 ## Workshop formats
